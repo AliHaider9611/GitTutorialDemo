@@ -1,0 +1,4 @@
+this a text
+i wnat this to go into commit 2
+changed by ali
+This is changed now
